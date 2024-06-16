@@ -2,3 +2,5 @@
 node_modules/
 build/
 .DS_Store
+apps/boltevm/src/bolt_inwrld.blend1
+apps/boltevm/src/bolt_inwrld.blend
